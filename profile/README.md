@@ -1,6 +1,6 @@
 <div align="center">
 	<img
-		src="https://github.com/Kconk-Game/KConkServerNightly/raw/main/assets/icon.png"
+		src="../icon.png"
 		alt="KConk Logo"
 		style="width:20%"
 	><br>
