@@ -1,6 +1,6 @@
 <div align="center">
 	<img
-		src="../icon.png"
+		src="https://raw.githubusercontent.com/Kconk-Game/.github/main/icon.png"
 		alt="KConk Logo"
 		style="width:20%"
 	><br>
